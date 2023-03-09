@@ -32,3 +32,7 @@ https://www.canva.com/design/DAFclgVpJv8/ZtIgfrFH7jaMYBGZ2IFPUw/view?utm_content
 
   ##### 9.Show total revenue in year 2018 in Bengaluru  
       SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2018 and transactions.market_code="Mark006";
+
+#### Data Analysis using Power Bi  
+  ##### Formula to create norm_amount column  
+      = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*82.40 else [sales_amount], type any)
