@@ -39,3 +39,11 @@ https://www.canva.com/design/DAFclgVpJv8/ZtIgfrFH7jaMYBGZ2IFPUw/view?utm_content
 
 ## **Power BI User Interface: (Whole Years Report)**
 ![image](https://user-images.githubusercontent.com/80545634/224071471-1fdc0785-be22-40ed-b43f-b9fbe883724b.png)
+<br>
+## **Power BI User Interface: (Specific Year 2018 Report)**  
+![image](https://user-images.githubusercontent.com/80545634/224076905-100b1b71-8aa8-4bfd-8115-3a5a28230fb9.png)  
+<br>
+## **Power BI User Interface: (Bengaluru for year 2018 Report)**
+![image](https://user-images.githubusercontent.com/80545634/224078365-78cfc02e-7dce-4b81-8a14-8f3151f0b97e.png)
+
+
