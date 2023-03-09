@@ -36,3 +36,6 @@ https://www.canva.com/design/DAFclgVpJv8/ZtIgfrFH7jaMYBGZ2IFPUw/view?utm_content
 #### Data Analysis using Power Bi  
   ##### Formula to create norm_sales_amount column  
       = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*82.40 else [sales_amount], type any)
+
+## **Power BI User Interface: (Whole Years Report)**
+![image](https://user-images.githubusercontent.com/80545634/224071471-1fdc0785-be22-40ed-b43f-b9fbe883724b.png)
