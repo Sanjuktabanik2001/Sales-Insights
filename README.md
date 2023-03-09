@@ -2,10 +2,11 @@
 
 Power BI Data Analysis Project for Sales Insights
 
-PowerPoint Presentation Link:
+PowerPoint Presentation Link:  
+
 https://www.canva.com/design/DAFclgVpJv8/ZtIgfrFH7jaMYBGZ2IFPUw/view?utm_content=DAFclgVpJv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Data Analysis using SQL
+Data Analysis using SQL  
   1.Show all customer records
          SELECT * FROM customers;
 
